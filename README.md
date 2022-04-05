@@ -1,3 +1,14 @@
+Rotační n-coder
+======================
+
+Funkční vzorový [kód](src/main.c), aktuální stav se vypisuje na UART.
+
+
+` $`[`pyserial-miniterm`](https://github.com/pyserial/pyserial)` /dev/ttyACM0 115200`
+
+
+
+
 STM8 startovací toolchain
 ==============================
 
